@@ -1,4 +1,4 @@
-﻿# 👨‍💻 opengl 오브젝트 pharser
+﻿﻿# 👨‍💻 opengl 오브젝트 pharser
 
 <br/>
 
@@ -21,9 +21,7 @@
     <td>
       <image src="https://github.com/banma1234/ks_opengl/assets/77619465/bd92cc20-64db-4b8c-bd57-bb581ac6efa3"/>
     </td>
-    <td>
-
-    </td>
+      <td/>
   </tr>
   <tr>
     <th>모델 회전</th>
@@ -42,7 +40,7 @@
 
 특히 `assimp` 라이브러리는 미리 컴파일된 라이브러리가 아니라 패키지를 `cmake`로 설치하여 빌드한 것이므로 사용자 설정에 차이가 있을 수 있습니다.
 
-자세한건 `Used Library`를 참고부탁드립니다.
+자세한건 `Build by`를 참고부탁드립니다.
 
 <br/>
 
@@ -56,8 +54,14 @@
 
 <br/>
 
-## 🛠️ Used Library
+## 🛠️ Build by
 
+  ![c++](https://img.shields.io/badge/c++-444444?style=for-the-badge&logo=c)
+  ![visual studio](https://img.shields.io/badge/visual_studio-444444?style=for-the-badge&logo=visualstudio)
+  ![opengl](https://img.shields.io/badge/opengl-444444?style=for-the-badge&logo=opengl)
+  ![github](https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github)
+
+### Library
 - opengl
 - glfw
 - glad
