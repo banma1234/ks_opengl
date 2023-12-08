@@ -59,10 +59,10 @@
   ![c++](https://img.shields.io/badge/c++-444444?style=for-the-badge&logo=c)
   ![visual studio](https://img.shields.io/badge/visual_studio-444444?style=for-the-badge&logo=visualstudio)
   ![opengl](https://img.shields.io/badge/opengl-444444?style=for-the-badge&logo=opengl)
+  ![github](https://img.shields.io/badge/cmake-444444?style=for-the-badge&logo=cmake)
   ![github](https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github)
 
 ### Library
-- opengl
 - glfw
 - glad
 - glm
