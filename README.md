@@ -14,18 +14,20 @@
     </td>
   </tr>
   <tr>
-    <th>줌 & 줌아웃</th>
-    <th>텍스처 변경</th>
+    <th>줌인 & 줌아웃</th>
+    <th>사용자 입력으로 텍스처 변경</th>
   </tr>
     <tr>
     <td>
       <image src="https://github.com/banma1234/ks_opengl/assets/77619465/bd92cc20-64db-4b8c-bd57-bb581ac6efa3"/>
     </td>
-      <td/>
+      <td>
+        <image src="https://github.com/banma1234/myBlog-migration/assets/77619465/f50f855b-2a30-45a4-a433-d2bce4045981"/>
+      </td>
   </tr>
   <tr>
-    <th>모델 회전</th>
-    <th>none.</th>
+    <th>마우스 좌클릭으로 모델 회전</th>
+    <th>키보드로 카메라 시점 변환</th>
   </tr>
     </tr>
 </table>
